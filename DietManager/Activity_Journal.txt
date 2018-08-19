@@ -1,0 +1,37 @@
+SWEN-250 Activity Journal
+Ruby - Diet Manager
+
+Name: Adesope Adebomi
+
+NOTE: Create additional Part 1 & 2 log entries 
+based on the order of implementation.
+
+================================================================
+Part 1 - Product & Unit Test Classes - Start
+Estimated Time 6 00
+Plan for this level:
+Create the tests and classes that need to be created and start working on the tests and make sure my code and result match the test and also match the sample output provided for us
+
+Part 1 - Product & Unit Test Classes - Completed
+Actual Time	3 00
+Lessons learned, problems encountered, obstacles overcome, etc.
+After implementing the first couple of tests and classes i began to understand what was expecte dof me and the rest became easier. Had problems getting the foodDB and log classes to pass their tests and i realised eql? is not the same things as equal?
+
+================================================================
+Part 2 - DietManager Levels - Start
+Estimated Time	1 30
+Plan for this level:
+Work on each method and make sure the print and output matched the sample output
+
+Part 2 - DietManager Levels - Completed
+Actual Time	2
+Lessons learned, problems encountered, obstacles overcome, etc.
+Took longer than i expected and was also harder than i thought but i was able to pull through and implement them successfully
+
+
+================================================================
+Overall Summary
+Estimated Total Time	7 30
+Actual Total Time	4 30
+Project reflection:
+All in all it was a project that tested my patience and ruby skills but i definitely pushed through and was able to complete it through constant internet searches and help from mentors

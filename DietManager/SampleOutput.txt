@@ -1,0 +1,44 @@
+print all
+
+Orange 67
+Bread Slice 80
+Peanut Butter 175
+Jelly 155
+Apple 50
+Wheat Bread 50
+Chicken 245
+
+Chicken Sandwich 405
+  Bread Slice 80
+  Bread Slice 80
+  Chicken 245
+PB&J Sandwich 490
+  Bread Slice 80
+  Bread Slice 80
+  Jelly 155
+  Peanut Butter 175
+
+show all
+
+12/26/1996
+  Wheat Bread
+4/15/2004
+  PB&J Sandwich
+9/12/2008
+  Apple
+12/6/2009
+  Jelly
+2/8/2011
+  Orange
+
+find Ora
+Orange 67
+
+log Apple
+
+show 10/11/2013
+
+Apple
+delete Apple,10/11/2013
+show 10/11/2013
+
